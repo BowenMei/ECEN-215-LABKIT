@@ -3,3 +3,7 @@ Date: 2/16/2022
 Aaron:  I otimized and cleaned up my waveform generation code and PIC32 voltage correction code as much as i could.
         I ran the simulations for our voltmeter again with more data points and higher precision to generate a new approximation equation with less calculation error
         We determined a sampling rate for the waveform generator of 1440 Hz (our fastest waveform runs at 1200 Hz)
+       
+Jon:    I was able to check the continuity of all of our connections on our PCB were working properly. I was also able to solder on our parts for the Ohmmeter and
+        Ammeter design. I varified that the connections between all of the parts were connected properly. I am currently working with Aaron on creating the required
+        tests we need to do with test bench equipment before we move onto the Oscilloscope and Voltmeter functions.
