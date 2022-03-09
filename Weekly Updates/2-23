@@ -1,1 +1,5 @@
 Placeholder
+Jon: For this week I worked on checking the continuity throughout the board without any parts on the board. All of the connections checked out.
+     After, I put on and tested the power distribution function. I verified that the power going throughout the board was producing, -5V, 5V, and 3.3V.
+     My tests showed that this function was working properly. I also fixed an error in the power supply going to the majority of our op amps.
+     These op amps were in the Ohmmeter, Ammeter, and Scope designs.
