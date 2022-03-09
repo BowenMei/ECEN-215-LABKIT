@@ -1,1 +1,5 @@
-Placeholder
+Jon: This week I finished fixing the op amps in some of our functions. I also put on all the parts for the ohmmeter and ammeter design.
+     I began testing these functions and found positive results. Not for all tests though. In the ohmmeter design, only specific resistors
+     were outputting properly so there might need to be some hard code done for this function to correct it. The Ammeter design is working but 
+     we are getting half of the output we want. We cleaned our board with some of professor Lushers solution but haven't had a chance to test 
+     again.
