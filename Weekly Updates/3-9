@@ -1,1 +1,5 @@
-Placeholder
+Jon:  This week I have been testing the ohmmeter, ammeter, scope, power distribution to the board, and dc power supplies functions. 
+      There are some slight issues with some of the functions but I am working on debugging each function and finding the issues.
+      Most of it pertains to the power being distributed to the componenets so I believe it might be a physical issue. For the next
+      couple of weeks I will continue to debug these issues and hope to have them resolved and gone through thorough tests to show
+      that our functions are working properly. 
