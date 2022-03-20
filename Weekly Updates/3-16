@@ -1,2 +1,7 @@
 Jon: This week I continued to work on putting on the rest of the parts on our board. As well as test our functions when they are put
-      on the board. 
+      on the board. Last week I was running into the issues of our components not getting the right power. I found the physical issues
+      and will need help from Professor Lusher to fix those issues. I believe once these issues are resolved, then the functions should
+      be operating correctly. After some testing on the Ohmmeter, we found that the correct output is showing before the op amp but not after.
+      For the DC power supplies, the positive supply is consistent with the power from the power distribution function but we are having some
+      issues with the negative side. We will conitnue testing all of the functions while we continue working on integrating the PIC code, ESP
+      bluetooth and phone application.
