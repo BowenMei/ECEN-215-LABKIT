@@ -1,1 +1,5 @@
-Placeholder
+Jon: This week I have been working on the physical side of our project. I found errors in some of our designs but have been able to fix them.
+      All of the parts are on the board. I have been able to test the PWR distribution, Ohmmeter, Ammeter, and DC power supplies. All of these 
+      have been tested with testbench equipment and are working properly. I am currently still working on testing both channels for our oscilloscope 
+      design. I found an error with one of our components that I plan to fix and that should give us the correct output. After I am able to validate
+      that the oscilloscope channels are working properly, I will make the transition to helping with the firmware for our project.
