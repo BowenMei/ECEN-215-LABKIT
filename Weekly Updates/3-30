@@ -1,1 +1,7 @@
-Placeholder
+Jon:  For this week, I was working on finding the issue with our oscilloscope design. I have been working with Professor Lusher
+      and have found that the design for our channels were designed wrong. Specifically our votlage references. We noticed that 
+      they were not outputting the desired 2.048 V. We are working to resolve this issue by adding an additional resistor in order
+      to draw a greater resistance. Before, our design caused it to be a ground loop so we were getting a very low voltage. The 
+      team and Professor Lusher believe this will fix the issue. Our new resistors should come in the next couple of days and I will 
+      add those to our design where I have already made the physical changes. Once this is put in place, I will finalize the testing
+      for the oscilloscope and then continue assisting Aaron with the PIC32 microcontroller code.
