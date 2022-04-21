@@ -1,1 +1,6 @@
-Placeholder
+Jon: For this week, we were giving our final presentation for our project. We have made some progress with the firmware and   
+      have been able to load code onto the board for the PIC but we are still having trouble loading code onto the ESP. All of
+      the hardware is still working properly. I have just been fine tuning the corrections that will be done in the PIC based off
+      of the output I am getting when doing testing. I also have been able to test some of the labs in the ECEN 215 lab manual. By
+      doing this I was able to test the Scope/voltmeter, ammeter and ohmmeter. All were working as intended after corrections were
+      made.
