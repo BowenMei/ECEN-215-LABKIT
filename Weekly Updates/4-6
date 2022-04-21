@@ -1,1 +1,4 @@
-Placeholder
+Jon: For this week I was able to get all of the functions that I have been able to test working properly.
+     That being the DC PWR Supplies, Ammeter, Ohmmeter, Oscilloscope, and Voltmeter. I am waiting to test
+     the waveform generator. This can be done when we have the PIC and ESP code working and integrated. I have
+     done testing and also have been helping Aaron and Bowen with their firmware.
